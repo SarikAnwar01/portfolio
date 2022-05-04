@@ -120,7 +120,7 @@ color: white;
 border-radius: 50px;
   padding: 8px;
 &:hover {
-    background-color: #212d45;
+    background-color: #8068a3;
     transform: scale(1.2);
     cursor: pointer;
     

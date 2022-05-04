@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText center>
         I am a full-stack web developer with a passion for creating beautiful, responsive websites.
       </SectionText>
-      <Button onClick={() => { window.location = "https://google.com" }}>Learn More</Button>
+      <Button onClick={() => { window.location = "mailto:sarikanwar007@gmail.com" }}>Learn More</Button>
     </LeftSection>
 
   </Section>
